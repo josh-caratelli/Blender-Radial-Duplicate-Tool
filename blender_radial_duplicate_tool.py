@@ -5,7 +5,7 @@ bl_info = {
     "version": (1, 0),
     "blender": (2, 81, 1),
     "location": "View3D > Sidebar > Radial Duplicate",
-    "wiki_url": "https://twitter.com/josh_caratelli",
+    "wiki_url": "https://github.com/josh-caratelli/Blender-Radial-Duplicate-Tool",
     "support": 'COMMUNITY',
     "category": "Tool"
 }
